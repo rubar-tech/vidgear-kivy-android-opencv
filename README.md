@@ -3,3 +3,4 @@ simple(yet works great) example of video+date transfer, from a python running se
 
 first setup a running enviroment of buildozer
 after making your first apk successfuly, take in this code and have fun
+if have any problems with pyzmq and buildozer, feel free to see buildozer issue #1333
